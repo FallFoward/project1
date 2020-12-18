@@ -3,7 +3,7 @@ import java.awt.*; //Font 상수 등을 위한 awt 패키지 선언
 import java.awt.event.*;
 import java.io.*;
 
-public class Nemonemo extends JFrame implements ActionListener{ // commit test
+public class Nemonemo extends JFrame implements ActionListener{ // commit test.
 		JPanel contentPane;
 		
 		//메뉴
